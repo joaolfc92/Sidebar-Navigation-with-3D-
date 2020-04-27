@@ -1,5 +1,5 @@
 # Sidebar-Navigation-with-3D-
-Menu de navegação que quando aberto adiciona uma opacidade no resto da página, e a reduz de tamanho
+Menu de navegação, que quando aberto adiciona uma opacidade no resto da página, e a reduz de tamanho
 
 HTML/CSS/JS.
 
